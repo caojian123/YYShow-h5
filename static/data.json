@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "pageId": "page_1500879049657",
+            "title": "未命名111",
+            "background": "#ccc",
+            "activeModule": 1,
+            "modules": [
+                {
+                    "moduleId": "module_1500879049657",
+                    "type": "image",
+                    "className": "zoomInLeft",
+                    "customClass": 0,
+                    "customStyle": "",
+                    "style": {
+                        "width": "552",
+                        "height": "346",
+                        "left": "0",
+                        "top": "0",
+                        "fontSize": "28",
+                        "color": "#000",
+                        "zIndex": 0,
+                        "animationDelay": "0s",
+                        "animationIterationCount": 1
+                    },
+                    "text": "请添加文字1111",
+                    "url": "http://pic.58pic.com/58pic/11/09/64/39i58PICmgE.jpg",
+                    "link": "http://www.baidu.com"
+                },
+                {
+                    "moduleId": "module_1500879049657",
+                    "type": "text",
+                    "className": "zoomInLeft",
+                    "customClass": 0,
+                    "customStyle": "",
+                    "style": {
+                        "width": "280",
+                        "height": "80",
+                        "left": "0",
+                        "top": "400",
+                        "fontSize": "48",
+                        "color": "#000",
+                        "zIndex": 1,
+                        "animationDelay": "0s",
+                        "animationIterationCount": 1
+                    },
+                    "text": "请添加文字222222",
+                    "url": "http://pic.58pic.com/58pic/11/09/64/39i58PICmgE.jpg",
+                    "link": "http://www.baidu.com"
+                }
+            ]
+        },
+        {
+            "pageId": "page_1500879049657",
+            "title": "未命名2222",
+            "background": "yellowgreen",
+            "activeModule": 0,
+            "modules": [
+                {
+                    "moduleId": "module_1500879049657",
+                    "type": "image",
+                    "className": "slideInRight",
+                    "customClass": 0,
+                    "customStyle": "",
+                    "style": {
+                        "width": "750",
+                        "height": "346",
+                        "left": "0",
+                        "top": "0",
+                        "fontSize": "28",
+                        "color": "#000",
+                        "zIndex": 2,
+                        "animationDelay": "0s",
+                        "animationIterationCount": "1"
+                    },
+                    "text": "请添加文字22222222",
+                    "url": "http://pic.58pic.com/58pic/11/09/64/39i58PICmgE.jpg",
+                    "link": "http://www.baidu.com"
+                }
+            ]
+        }
+    ]
+}
