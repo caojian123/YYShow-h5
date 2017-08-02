@@ -2,7 +2,7 @@
   "name": "no",
   "version": "1.0.0",
   "description": "YYShow-h5",
-  "author": "caojian <caojian@111.com.cn>",
+  "author": "caojian <1101492398@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
